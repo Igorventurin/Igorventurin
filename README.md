@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalho com Análise de Dados na Secretaria de Inovação do Maranhão
 - 🌱 Estou me aperfeiçoando em SQL, Phyton, Machine Learning, Análise Exploratória e Data Visualization
 - 👯 Busco por uma boa oportunidade no mercado de dados
-- 😄 Contate-me no email: igorventurin@hotmail.com
 
 <div>
   <a href="https://www.linkedin.com/in/igor-matheus-lial-venturin-7b167a16b/">
@@ -15,11 +14,11 @@
 <div>
       <a href= target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <a href= target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-  <a href= target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
   <a href= target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
+  <a href= target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
   <a href= target="_blank"><img src="https://aleen42.github.io/badges/src/photoshop.svg"></a>
 </div>
-        
+      
  ##
  
 <div> 
